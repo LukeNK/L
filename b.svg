@@ -8,42 +8,15 @@
    version="1.1"
    id="svg5"
    xml:space="preserve"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="Bad Henry.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1.475841"
-     inkscape:cx="433.98984"
-     inkscape:cy="942.85225"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     showguides="false"><sodipodi:guide
-       position="32.65143,329.30209"
-       orientation="1,0"
-       id="guide2579"
-       inkscape:locked="false" /><sodipodi:guide
-       position="149.99999,205.59999"
-       orientation="1,0"
-       id="guide2581"
-       inkscape:locked="false" /></sodipodi:namedview><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs2"><rect
+       x="493.51556"
+       y="1044.5122"
+       width="262.52386"
+       height="44.448605"
+       id="rect750" /><rect
        x="5.3282261"
        y="1153.8646"
        width="563.90094"
@@ -59,7 +32,6 @@
        width="382.45804"
        height="212.95509"
        id="rect6306" /><linearGradient
-       inkscape:collect="always"
        id="linearGradient3394"><stop
          style="stop-color:#8b0000;stop-opacity:1;"
          offset="0"
@@ -87,7 +59,6 @@
        width="441.86209"
        height="110.4537"
        id="rect1983" /><linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3394"
        id="linearGradient3396"
        x1="-175.5"
@@ -96,8 +67,6 @@
        y2="22.5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.99678454,0,0,1,-0.06430866,0)" /></defs><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"><rect
        style="fill:#8b0000;fill-opacity:1;stroke:none;stroke-width:0.926186;stroke-dasharray:none;stroke-opacity:1"
        id="rect2316"
@@ -124,7 +93,6 @@
        y="17.870937"
        id="text1769"
        transform="rotate(-90)"><tspan
-         sodipodi:role="line"
          id="tspan1767"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:1"
          x="-72.119675"
@@ -134,7 +102,6 @@
        x="33.068058"
        y="86.139832"
        id="text1823"><tspan
-         sodipodi:role="line"
          id="tspan1821"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:1"
          x="33.068058"
@@ -144,7 +111,6 @@
        x="33.368183"
        y="121.9445"
        id="text1823-3"><tspan
-         sodipodi:role="line"
          id="tspan1821-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:1"
          x="33.368183"
@@ -155,7 +121,6 @@
        y="19.13035"
        id="text1827"
        transform="rotate(-90)"><tspan
-         sodipodi:role="line"
          id="tspan1825"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke-width:1"
          x="-142.8414"
@@ -168,9 +133,9 @@
        transform="translate(33.337501)"><tspan
          x="-0.770585"
          y="185.91753"
-         id="tspan38982"><tspan
+         id="tspan1525"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff"
-           id="tspan38980">Murder</tspan></tspan></text><text
+           id="tspan1523">Murder</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#d40000;stroke-width:1"
        x="127.52919"
@@ -179,8 +144,7 @@
          id="tspan1833"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;stroke-width:1"
          x="127.52919"
-         y="185.74654"
-         sodipodi:role="line">Investigation</tspan></text><text
+         y="185.74654">Investigation</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;inline-size:215.776;display:inline;fill:#d40000;stroke-width:1"
        x="0.12417585"
@@ -189,9 +153,9 @@
        transform="translate(2.1166667,1.5875)"><tspan
          x="0.12417585"
          y="278.87933"
-         id="tspan38986"><tspan
+         id="tspan1529"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan38984">Theories</tspan></tspan></text><image
+           id="tspan1527">Theories</tspan></tspan></text><image
        width="56.06316"
        height="31.535528"
        preserveAspectRatio="none"
@@ -214,70 +178,70 @@
        transform="translate(-5.395815,-24.041353)"><tspan
          x="38.84375"
          y="52.563141"
-         id="tspan38990"><tspan
+         id="tspan1533"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan38988">- Despite having an abusive single mother, </tspan></tspan><tspan
+           id="tspan1531">- Despite having an abusive single mother, </tspan></tspan><tspan
          x="38.84375"
          y="59.634519"
-         id="tspan38994"><tspan
+         id="tspan1537"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan38992">he was considered very bright
+           id="tspan1535">he was considered very bright
 </tspan></tspan><tspan
          x="38.84375"
          y="66.705896"
-         id="tspan38998"><tspan
+         id="tspan1541"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan38996">- Was elected to the student council and </tspan></tspan><tspan
+           id="tspan1539">- Was elected to the student council and </tspan></tspan><tspan
          x="38.84375"
          y="73.777277"
-         id="tspan39002"><tspan
+         id="tspan1545"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39000">was a cheerleader
+           id="tspan1543">was a cheerleader
 </tspan></tspan><tspan
          x="38.84375"
          y="80.848657"
-         id="tspan39006"><tspan
+         id="tspan1549"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39004">- Became a DJ after graduated highschool
+           id="tspan1547">- Became a DJ after graduated highschool
 </tspan></tspan><tspan
          x="38.84375"
          y="87.920038"
-         id="tspan39010"><tspan
+         id="tspan1553"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39008">- Joined the Navy, after that was a manager </tspan></tspan><tspan
+           id="tspan1551">- Joined the Navy, after that was a manager </tspan></tspan><tspan
          x="38.84375"
          y="94.991418"
-         id="tspan39014"><tspan
+         id="tspan1557"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39012">of a Taco Bell</tspan></tspan></text><text
+           id="tspan1555">of a Taco Bell</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-7.5530647,-2.4797765)"
        id="text1981"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;shape-inside:url(#rect1983);display:inline;fill:#ffffff;stroke-width:3.77953"><tspan
          x="155.91406"
          y="363.81385"
-         id="tspan39018"><tspan
+         id="tspan1561"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39016">However, he kept a deep secret. When </tspan></tspan><tspan
+           id="tspan1559">However, he kept a deep secret. When </tspan></tspan><tspan
          x="155.91406"
          y="390.5403"
-         id="tspan39022"><tspan
+         id="tspan1565"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39020">he was 8 years old, he witnessed a </tspan></tspan><tspan
+           id="tspan1563">he was 8 years old, he witnessed a </tspan></tspan><tspan
          x="155.91406"
          y="417.26674"
-         id="tspan39026"><tspan
+         id="tspan1569"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39024">group of 16 years old rape another girl.</tspan></tspan></text><text
+           id="tspan1567">group of 16 years old rape another girl.</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,1.0583333)"
        id="text465"
        style="font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect467);display:inline;fill:#000000;stroke-width:3.77953"><tspan
          x="258.85351"
          y="48.807146"
-         id="tspan39030"><tspan
+         id="tspan1573"><tspan
            style="font-weight:bold;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';fill:#ff0000"
-           id="tspan39028">Bad Henry</tspan></tspan></text><rect
+           id="tspan1571">Bad Henry</tspan></tspan></text><rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.40908"
        id="rect2635"
        width="5"
@@ -292,49 +256,49 @@
        y="0"><tspan
          x="585.82617"
          y="284.08925"
-         id="tspan39034"><tspan
+         id="tspan1577"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39032">This incident gave </tspan></tspan><tspan
+           id="tspan1575">This incident gave </tspan></tspan><tspan
          x="585.82617"
          y="311.19233"
-         id="tspan39038"><tspan
+         id="tspan1581"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39036">him a dominating </tspan></tspan><tspan
+           id="tspan1579">him a dominating </tspan></tspan><tspan
          x="585.82617"
          y="338.29542"
-         id="tspan39042"><tspan
+         id="tspan1585"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-           id="tspan39040">fantasy</tspan></tspan></text><text
+           id="tspan1583">fantasy</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,1.8250001)"
        id="text544"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;white-space:pre;shape-inside:url(#rect546);display:inline;fill:#ffffff;stroke-width:3.77953"><tspan
          x="126.11523"
          y="479.51698"
-         id="tspan39044">During his time in navy, he began using </tspan><tspan
+         id="tspan1587">During his time in navy, he began using </tspan><tspan
          x="126.11523"
          y="506.18361"
-         id="tspan39046">several drugs. He was caught stealing </tspan><tspan
+         id="tspan1589">several drugs. He was caught stealing </tspan><tspan
          x="126.11523"
          y="532.85023"
-         id="tspan39048">in the navy and was discharged. He </tspan><tspan
+         id="tspan1591">in the navy and was discharged. He </tspan><tspan
          x="126.11523"
          y="559.51686"
-         id="tspan39050">continue stealing until he was arrested </tspan><tspan
+         id="tspan1593">continue stealing until he was arrested </tspan><tspan
          x="126.11523"
          y="586.18348"
-         id="tspan39052">for breaking into a hardware store.
+         id="tspan1595">for breaking into a hardware store.
 </tspan><tspan
          x="126.11523"
          y="612.85011"
-         id="tspan39056"><tspan
+         id="tspan1599"><tspan
            style="fill:#ff0000"
-           id="tspan39054">He did not show up for most mandotary </tspan></tspan><tspan
+           id="tspan1597">He did not show up for most mandotary </tspan></tspan><tspan
          x="126.11523"
          y="639.51674"
-         id="tspan39060"><tspan
+         id="tspan1603"><tspan
            style="fill:#ff0000"
-           id="tspan39058">meeting during probation period.</tspan></tspan></text><rect
+           id="tspan1601">meeting during probation period.</tspan></tspan></text><rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.468022;stroke-dasharray:none;stroke-opacity:1"
        id="rect4124"
        width="5"
@@ -347,31 +311,31 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;white-space:pre;shape-inside:url(#rect6306);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="0"
          y="737.01307"
-         id="tspan39062">Victims: 11, all are women who </tspan><tspan
+         id="tspan1605">Victims: 11, all are women who </tspan><tspan
          x="0"
          y="763.6797"
-         id="tspan39064">knows Henry
+         id="tspan1607">knows Henry
 </tspan><tspan
          x="0"
          y="790.34633"
-         id="tspan39066">Span of crimes: 1990 - 1994
+         id="tspan1609">Span of crimes: 1990 - 1994
 </tspan><tspan
          x="0"
          y="817.01295"
-         id="tspan39068">Type of crine: rape and murder
+         id="tspan1611">Type of crine: rape and murder
 </tspan><tspan
          x="0"
          y="843.67958"
-         id="tspan39070">Despite his crime mostly </tspan><tspan
+         id="tspan1613">Despite his crime mostly </tspan><tspan
          x="0"
          y="870.3462"
-         id="tspan39072">impulsive, he does targeted </tspan><tspan
+         id="tspan1615">impulsive, he does targeted </tspan><tspan
          x="0"
          y="897.01283"
-         id="tspan39074">women that he knows from work, </tspan><tspan
+         id="tspan1617">women that he knows from work, </tspan><tspan
          x="0"
          y="923.67946"
-         id="tspan39076">even as young as 18.
+         id="tspan1619">even as young as 18.
 </tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,10.054167,-4.2333335)"
@@ -379,28 +343,28 @@
        style="font-size:21.3333px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;white-space:pre;shape-inside:url(#rect6933);shape-padding:12.5852;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:3.77953"><tspan
          x="385.94141"
          y="751.33534"
-         id="tspan39078">During the investigation, he </tspan><tspan
+         id="tspan1621">During the investigation, he </tspan><tspan
          x="385.94141"
          y="778.00197"
-         id="tspan39080">mostly stay with the victims' family, </tspan><tspan
+         id="tspan1623">mostly stay with the victims' family, </tspan><tspan
          x="385.94141"
          y="804.66859"
-         id="tspan39082">and even offered his testament to </tspan><tspan
+         id="tspan1625">and even offered his testament to </tspan><tspan
          x="385.94141"
          y="831.33522"
-         id="tspan39084">the police. He even attended the </tspan><tspan
+         id="tspan1627">the police. He even attended the </tspan><tspan
          x="385.94141"
          y="858.00184"
-         id="tspan39086">funeral of one victim, and not </tspan><tspan
+         id="tspan1629">funeral of one victim, and not </tspan><tspan
          x="385.94141"
          y="884.66847"
-         id="tspan39088">until the very last murder that he </tspan><tspan
+         id="tspan1631">until the very last murder that he </tspan><tspan
          x="385.94141"
          y="911.33509"
-         id="tspan39090">was captured an conffesed all 11 </tspan><tspan
+         id="tspan1633">was captured an conffesed all 11 </tspan><tspan
          x="385.94141"
          y="938.00172"
-         id="tspan39092">murders.
+         id="tspan1635">murders.
 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;inline-size:217.54;display:inline;fill:#d40000;stroke-width:1"
@@ -410,20 +374,20 @@
        transform="translate(-37.353375,236.01936)"><tspan
          x="38.84375"
          y="52.563141"
-         id="tspan39096"><tspan
+         id="tspan1639"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39094">FBI serial murder profiler Robert Ressler:
+           id="tspan1637">FBI serial murder profiler Robert Ressler:
 </tspan></tspan><tspan
          x="38.84375"
          y="59.618691"
-         id="tspan39100"><tspan
+         id="tspan1643"><tspan
            style="font-style:italic;font-size:4.23333px;-inkscape-font-specification:'sans-serif Italic';fill:#aa4400"
-           id="tspan39098">&quot;Mr. Wallace always seemed to take one step forward and two steps back. He would take items and </tspan></tspan><tspan
+           id="tspan1641">&quot;Mr. Wallace always seemed to take one step forward and two steps back. He would take items and </tspan></tspan><tspan
          x="38.84375"
          y="66.674241"
-         id="tspan39104"><tspan
+         id="tspan1647"><tspan
            style="font-style:italic;font-size:4.23333px;-inkscape-font-specification:'sans-serif Italic';fill:#aa4400"
-           id="tspan39102">put them in the stove to destroy them by burning them and then forget to turn the stove on.&quot;</tspan></tspan></text><text
+           id="tspan1645">put them in the stove to destroy them by burning them and then forget to turn the stove on.&quot;</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:sans-serif;white-space:pre;inline-size:208.44;display:inline;fill:#d40000;stroke-width:1"
        x="38.84375"
@@ -432,19 +396,19 @@
        transform="translate(-31.009147,201.60744)"><tspan
          x="38.84375"
          y="52.563141"
-         id="tspan39108"><tspan
+         id="tspan1651"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39106">Henry was found capable to stand trial. He was handed 9 death </tspan></tspan><tspan
+           id="tspan1649">Henry was found capable to stand trial. He was handed 9 death </tspan></tspan><tspan
          x="38.84375"
          y="59.634519"
-         id="tspan39112"><tspan
+         id="tspan1655"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39110">sentences. He appealed his sentence 3 times and was rejected. He is </tspan></tspan><tspan
+           id="tspan1653">sentences. He appealed his sentence 3 times and was rejected. He is </tspan></tspan><tspan
          x="38.84375"
          y="66.705896"
-         id="tspan39116"><tspan
+         id="tspan1659"><tspan
            style="font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000"
-           id="tspan39114">currently on the death row. He married when he was in prison.</tspan></tspan></text><text
+           id="tspan1657">currently on the death row. He married when he was in prison.</tspan></tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text33607"
@@ -453,51 +417,168 @@
        y="0"><tspan
          x="5.328125"
          y="1173.3881"
-         id="tspan39124"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39118">When crossing </tspan><tspan
+         id="tspan1667"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1661">When crossing </tspan><tspan
            style="fill:#ff0000"
-           id="tspan39120">the line</tspan><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39122"> to commit the first murder, </tspan></tspan><tspan
+           id="tspan1663">the line</tspan><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1665"> to commit the first murder, </tspan></tspan><tspan
          x="5.328125"
          y="1200.0547"
-         id="tspan39130"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39126">it is essentially he trying to satisfy the </tspan><tspan
+         id="tspan1673"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1669">it essentially he trying to satisfy the </tspan><tspan
            style="fill:#ff0000"
-           id="tspan39128">&quot;turned on&quot; </tspan></tspan><tspan
+           id="tspan1671">&quot;turned on&quot; </tspan></tspan><tspan
          x="5.328125"
          y="1226.7213"
-         id="tspan39136"><tspan
+         id="tspan1679"><tspan
            style="fill:#ff0000"
-           id="tspan39132">incident.</tspan><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39134"> It also because his mother always </tspan></tspan><tspan
+           id="tspan1675">incident.</tspan><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1677"> It also because his mother always </tspan></tspan><tspan
          x="5.328125"
          y="1253.388"
-         id="tspan39140"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39138">blaming him for the reason her marriage broke, </tspan></tspan><tspan
+         id="tspan1683"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1681">blaming him for the reason her marriage broke, </tspan></tspan><tspan
          x="5.328125"
          y="1280.0546"
-         id="tspan39144"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39142">and he is redirecting that hatred toward women.
+         id="tspan1687"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1685">and he is redirecting that hatred toward women.
 </tspan></tspan><tspan
          x="5.328125"
          y="1306.7212"
-         id="tspan39152"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39146">After crossing </tspan><tspan
+         id="tspan1695"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1689">After crossing </tspan><tspan
            style="fill:#ff0000"
-           id="tspan39148">the line</tspan><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39150"> for the first time, he'd never </tspan></tspan><tspan
+           id="tspan1691">the line</tspan><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1693"> for the first time, he'd never </tspan></tspan><tspan
          x="5.328125"
          y="1333.3878"
-         id="tspan39158"><tspan
-           style="text-align:start;text-anchor:start;fill:#000000"
-           id="tspan39154">be satisfied because </tspan><tspan
+         id="tspan1701"><tspan
+           style="text-align:start;fill:#000000"
+           id="tspan1697">be satisfied because </tspan><tspan
            style="fill:#800080"
-           id="tspan39156">that isn't the actual solution.</tspan></tspan></text></g></svg>
+           id="tspan1699">that isn't the actual solution.</tspan></tspan></text><image
+       width="48.018143"
+       height="48.018143"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcIAAAHCCAIAAADzel4SAAAAA3NCSVQICAjb4U/gAAAWhElEQVR4
+nO3d3XbjSG8FUDkr7//KzoW/dJwem2MLgnBQ2vtOo64fVpEQh9ZZent/f78BcK//mp4AwG7KKECJ
+MgpQoowClCijACXKKECJMgpQoowClCijACXKKECJMgpQoowClCijACXKKECJMgpQoowClCijACXK
+KECJMgpQoowClCijACXKKECJMgpQoowClCijACXKKECJMgpQoowClCijACXKKECJMgpQoowClCij
+ACXKKECJMgpQoowClCijACXKKECJMgpQ8t/TE/h/3t7epqfwI+/v79NTgBauwTu8hcxmy+Z9dt/S
+fT7S3/Zw3Xbq3Wvnzaqv575xf9vDFinla3weGzfvs18t4D8P9ufNr9tOvXvtvFn19dw37h3Ndxkv
+YsPPRrfv3+03h/Dlv/xh8+u2U+9eO29WfT33jXtf813GD8GfmABKJsvo+GfIoxxzILyaY07d2QNx
+NwpQMlZGj/kY/PCTw/nyQfgPn45ft51699p5s+rruW/cCy94DTZxN/pUf53cv/oL43XbqZfXzptV
+X89949Jt7AtPh30S3py7bOMafJSsFNO1Z67ReWcY1LkGv7SjjD7/Q+ZjxLSN7MvAVMbd2PPUSlbM
+zso1eCH92ej7+/vgeTw7+l/+Op9+9bJv3I09T61kxeCsXIP/KrqMhixfwjT6MjCVcTf2PLWSFYOz
+Sjj5bzHT+E50GQXIl1tGoz5/oiYDzxF12kdN5i+5ZRRghdAyGvjJMzulvgxMZdyNPU+tZMXIrMaP
++p8Cp/QhtIzyT30ZmMq4G3ueWsmKzFnxYcf3RvlwffH0XVrn9Ty1khWZs+J2Uhn97fc/nJTwWC97
+DZ5QRu/7At1Hq10bufd3fjqctxqZ6/wTr3MNfmn3s9G3t7fil5DrPTzNVDJnY6pn42pkrvO/eqlr
+8DuLy2jfGRxo6e/8NDlvNTLX+V+91DV4YXEZBUiwtYw+/LNr9YchPJ9r8I+tZRQgxMoy2vSplfxh
+OJXM2Zjq2bgamet84QWvwQsry+hr8js/n523GpnrzE+c8L3R1zGVzMm8pM9bjcx15l+5GwUocTf6
+bOflZ/rSRFPvXptaq75ZUeRu9KnOy8/0pYmmXl6bWqu+WVGnjD7PefmZvjTR1LvXptaqb1Y8hDIK
+UKKMApQoowAlyujznJef6UsTTb17bWqt+mbFQyijT3VefqYvTTT18trUWvXNirq3qRW//kvi9az6
+/gpZGde5yy6uwUdxNwpQIsX0bBtzO9emkjmZKabMd2nlbvSpQoI6T0tAbcxHZc5qan/5iZVltOnD
+tvszfGNu59pUMiczxZT5bpOl12CTlWUUIMfWMvrwT62lH4MwxTX4x9YyChBicRnt+/55k425nWtT
+yZzMFFPmu63WXYNNFpfR2+32/v5eXP16D78dLvBlxVQyJzPFlPmy1bprsMPKFNMdHT5hiO2nAq/G
+Nfgo53z9XhWDWS97DZ5TRreQrvm5jT1njkur3c9G15Gu+WruX9vYc+a4dAsto4HnUH1K0jXf/ccf
+/rPwnjPHvduR12CT0DIKsEVuGY365ImaDDxH1GkfNZm/5JZRgBWiy2jI58+jpiFd891//OE/C+85
+c9yiw67BJtFl9Ha7vb29Da7gw0eXrvlq7l/b2HPmuEWHXYMdQlNMX3rmVMOnB3XhJ3n49D7b9PX7
+/A8lOJtr8EubyugZ+rI32mp7X1uK0p+NHqYve6Ottve1pW6sjB72gfmTw+nL3mir7R1tX/AabOJu
+FKBksowe82F4zIHwao45dWcPxN0oQMlwGT3gw/Dnh9CXvdFW2/va/upfxho/hLGv3/9l498W71u6
+jV+I0fbstv/sYYuU8hUyjw9bNjJq0eCBXIN3yCqjAOtIMT1bX9rkvJ6nkjl7/8ecEf5S/1R9aZPz
+ep5K5kgi8VvK6PP0/d7OeT33jXttXRKJBMooQIkyClCijAKUKKPPM/U7Pxt7nvptoqVJJGYpo081
+9Ts/G3ue+m2ivl956mvLLF+/ByhxNwpQMp9iOi+pMvVuxcY0UeZqePfn71ZEJb6G70bPS6pMvazY
+mCbKXA0vf/6yIi3xNVlGz0uqTL1bsTFNlLka3v35uxWBiS/PRgFKlFGAEmUUoCTul0FXJ1Wm3q3Y
+mCbKXA3v/vzdisDEV9ZP2h2QVJl6WbExTZS5Gl7+/GVFWuJLigmgxLNRgJL0FFPmu9em2vb1vPGI
+MnNZUzKvlGuL9ig6xZT58tpU276eNx5RZi5rSuaVcm3XHuWmmDLfvTbVtq/njUeUmcuaknmlXFu3
+R56NApQoowAlyihASW6KKfPda1Nt+3reeESZuawpmVfKtXV7FJ1iynx5baptX88bjygzlzUl80q5
+tmuPpJgASjwbBSg5OcU0Ne7GI6r0PDWrzHH7nLdWG3fhS8emmKbG3XhElZ6nZpU5bp/z1mrjLnzn
+zBTT1Lgbj6jS89SsMsftc95abdyFC56NApQoowAlyihAyZkppqlxNx5RpeepWWWO2+e8tdq4CxeO
+TTFNjbvxiCo9T80qc9w+563Vxl34jhQTQIlnowAlu1NMfeNm9lwZNzPVk7n7GxNf5+3voozT4hRT
+37iZPVfGzUz1ZO7+xsTXefu7K+O0NcXUN25mz5VxM1M9mbu/MfF13v6uyzh5NgpQoowClCijACVb
+U0x942b2XBk3M9WTufsbE1/n7e+6jNPiFFPfuJk9V8bNTPVk7v7GxNd5+7sr4yTFBFDi2ShAyckp
+plfLk0zNeWoHN85qSuZaVdpGrfOxKaZXy5NMzXlqBzfOakrmWlXapq3zmSmmV8uTTM15agc3zmpK
+5lpV2gaus2ejACXKKECJMgpQcmaK6dXyJFNzntrBjbOakrlWlbaB63xsiunV8iRTc57awY2zmpK5
+VpW2aessxQRQ4tkoQMnuFNPGjMSibMYfU6vR17Zi47jnnc9RV8riFNPGjMSubMaHqdXoa1uxcdzz
+zue0K2VrimljRmJdNuO7CTxhNfraVmwc97zzOfBK8WwUoEQZBShRRgFKtqaYNmYk1mUzvpvAE1aj
+r23FxnHPO58Dr5TFKaaNGYld2YwPU6vR17Zi47jnnc9pV4oUE0CJZ6MAJfMppmuZKabzkkiZx3ve
+7p+3zpkpxCeLvhvNTDGdl0TKPN7zdv+8dZ46orSrLLeMZqaYzksiZR7vebt/3jpPHVHgVZZbRgFW
+UEYBSpRRgJLcMpqZYjoviZR5vOft/nnrPHVEgVdZbhm9paaYzksiZR7vebt/3jpPHVHaVSbFBFAS
+fTcKkG8+xZSZ3OizMfXxatmbyrh9bSs9b0wiTZ1Xd1j8W0x94/bZmPp4texNZdy+tpWeNyaRps6r
++2z9Laa+cftsTH28WvamMm5f20rPG5NIU+fV3TwbBShRRgFKlFGAkq2/xdQ3bp+NqY9Xy95Uxu1r
+W+l5YxJp6ry62+LfYuobt8/G1MerZW8q4/a1rfS8MYk0dV7dR4oJoMSzUYCS+RRTn6l8RV/PmUdU
+GbdP5hGd1zYzH/Vkx96NTuUr+nrOPKLKuH0yj+i8tpn5qOc7s4xO5Sv6es48osq4fTKP6Ly2mfmo
+EWeWUYCnUUYBSpRRgJIzy+hUvqKv58wjqozbJ/OIzmubmY8acWYZvc3lK/p6zjyiyrh9Mo/ovLaZ
++ajnk2ICKDn2bhTgOeZTTJmpnorMWWXK3P3MzE9l3L62lZ6lmB4jM9VTkTmrTJm7n5n5qYzb17bS
+sxTTY2SmeioyZ5Upc/czMz+VcfvaVnqWYgLg/yijACXKKEDJ1t9imsp19PW8LrlRlLn7mZmfyrh9
+bSs9SzE9UmaqpyJzVpkydz8z81MZt69tpWcpJgD+w7NRgJL5FFOfvgRFZsolc84VmSmXV0siVcZd
+lESqOPZutC9BkZlyyZxzRWbK5dWSSJVxdyWRKs4so30JisyUS+acKzJTLq+WRKqMuy6JVHFmGQV4
+GmUUoEQZBSg5s4z2JSgyUy6Zc67ITLm8WhKpMu66JFLFmWX01pmgyEy5ZM65IjPl8mpJpMq4u5JI
+FVJMACXH3o0CPMd8iunVMjDXMrMolbaZ+7sxLzQlc3+jRP8WU1/PmfmKzCxKpW3m/m7MC03J3N80
+ub/F1NdzZr4iM4tSaZu5vxvzQlMy9zeQZ6MAJcooQIkyClCS+1tMfT1n5isysyiVtpn7uzEvNCVz
+fwNF/xZTX8+Z+YrMLEqlbeb+bswLTcnc3zRSTAAlno0ClMynmCoyEzJ9PWe+y2eZqR6732rx3Whm
+Qqav58yXfJaZ6rH73baW0cyETF/Pme/yWWaqx+4/wdYyChBCGQUoUUYBSraW0cyETF/Pme/yWWaq
+x+4/wdYyektNyPT1nPmSzzJTPXa/mxQTQMniu1GABOkppsw0UUXfnPtMzTkzl3XeEV17tXHvEH03
+mpkmquibc5+pOWfmss47omuvNu59cstoZpqoom/OfabmnJnLOu+Irr3auHfLLaMAKyijACXKKEBJ
+bhnNTBNV9M25z9ScM3NZ5x3RtVcb9265ZfSWmiaq6Jtzn6k5Z+ayzjuia6827n2kmABKou9GAfLN
+p5g25oUykxtRuY4/Mlcys+fKuJl5v/PO5y8N341uzAtlJjfSch0fMlcys+fKuJl5v/PO5+9MltGN
+eaHM5EZgruO7CYyvZGbPlXEz837nnc8XPBsFKFFGAUqUUYCSyTK6MS+UmdwIzHV8N4HxlczsuTJu
+Zt7vvPP5wvDd6Ma8UGZyIy3X8SFzJTN7roybmfc773z+jhQTQIlnowAl8ymma5mJkUwb8ySZOZa+
+zE9f2z5T+ahFou9GMxMjmTbmSTJzLH2Zn762fabyUbvkltHMxEimjXmSzBxLX+anr22fqXzUOrll
+FGAFZRSgRBkFKMkto5mJkUwb8ySZOZa+zE9f2z5T+ah1csvoLTUxkmljniQzx9KX+elr22cqH7WL
+FBNASfTdKEC+3SmmzJTLeYmg846ob9zMd69NnRvHJKCi70Y3plzOSwSdd0R942a+vDZ1bpyUgMot
+oxtTLuclgs47or5xM9+9NnVuHJaAyi2jACsoowAlyihASW4Z3ZhyOS8RdN4R9Y2b+e61qXPjsARU
+bhm97Uy5nJcIOu+I+sbNfHlt6tw4KQElxQRQEn03CpBvPsUUlUZ4iMzszVTPG7NG58lMTx1j+G40
+LY1Ql5m9mep5Y9boPJnpqZNMltHANEJRZvZmqueNWaPzZKanDuPZKECJMgpQoowClEyW0cA0QlFm
+9maq541Zo/NkpqcOM3w3mpZGqMvM3kz1vDFrdJ7M9NRJpJgASjwbBSiZTzFN2ZjM6ZOZNeobd6O+
+M9YeFb3o3ejGZE6fzKxR37gb9Z2x9qjuFcvoxmROn8ysUd+4G238xaTKrNZ5xTIK8EDKKECJMgpQ
+8opldGMyp09m1qhv3I36zlh79BCvWEZvO5M5fTKzRn3jbrTxF5Mqs9pFigmg5EXvRgEeZXeKKfMX
+ZiSCHtXzxkzXxrUy56LFd6OZvzAjEfSonjdmujaulTnXbS2jmb8wIxH0qJ43Zro2rpU5P8TWMgoQ
+QhkFKFFGAUq2ltHMX5iRCHpUzxszXRvXypwfYmsZvaX+woxE0KN63pjp2rhW5lwnxQRQsvhuFCDB
+fIppKueQmYC6NpX6yMyDnTduRebZHpU16jN8NzqVc8hMQF2bSn1k5sHOG7ci5PQOWY3nmyyjUzmH
+zATUtanUR2Ye7LxxKzLP9sCsUR/PRgFKlFGAEmUUoGSyjE7lHDITUNemUh+ZebDzxq3IPNsDs0Z9
+hu9Gp3IOmQmoa1Opj8w82HnjVoSc3iGr8XxSTAAlno0ClMynmF5NZp4kM3vT17bivJU0bpG70acK
+CZCEpE2mclkV562kceuU0efJzJNkZm/62lact5LGfQhlFKBEGQUoUUYBSpTR58nMk2Rmb/raVpy3
+ksZ9CGX0qUICJCFpk6lcVsV5K2ncOikmgJKsr9+Pf//rh3z2AH+k3I1uKaCf3bd0G1MfU7mdvnGn
+El9TPWe2rYhKMc2X0Y0F9LNfLeA/D/Y5618Z97pt3xH1jVvpOXMlN7atmBr3O1k/abfRzw9hY+pj
+KrfTN+5U4muq58y2FVJMAKeJ+2XQjY45EOAO7kYBSsbK6GF3cD85nI2pj6ncTt+4U4mvqZ4z21ZI
+Mb26jamPqdxO37hTia+pnjPbVkgx/e/AZ92N3gL2EhiRlWK6NvXlXoALO8ro82/0PkZMK6Yb00Sv
+NqtrU6vRp28XMnfwS+nPRt/f3wfXaHb0v0z9ClBl3Feb1bWp1ejTtwuZO/id6DIaUsISprExTfRq
+s7o2tRp9+nYhcwcvRJdRgHy5ZTThHvCPqMkAUXLLKMAKoWU08O5vdkob00SvNqtrU6vRp28XMnfw
+QmgZ5Z82polebVbXplajT98uZO7gd0JTTOPr8qWNcwa67fj6/U/89hsPqh7wECeU0fu+MvbR6vnF
+9Ly0SWXcPlEplz82Zroy342y+9no29tb8Wu39R5+O9zFy6lx+xIjmcc7ZWOmK/NlmsVltO8sbHJe
+2qQybp/AlMt3EwjPdGW+G2hxGQVIsLWMPvyjKfmzDki2tYwChFhZRpvuHLtvSM9Lm1TG7ROYcvlu
+AuGZrsx3A60so3udlzapjNsnLeXyYWOmK/NlmpUppr7bxsq44TsNNHE3ClByQorpdZyXCMpMufSl
+tjKzZBvHjco4uRtd47xEUGbKpS+1lZkl2zhuWsZJGd3hvERQZsqlL7WVmSXbOG5gxkkZBShRRgFK
+lFGAEmV0h/MSQZkpl77UVmaWbOO4gRknZXSN8xJBmSmXvtRWZpZs47hpGScppoeNO76XwAh3owAl
+UkxZplIffUmVildL12QeUUXmefVw7kaDTKU++pIqFa+Wrsk8oorM86rDyjLa9NE0+4k3lfroS6pU
+vFq6JvOIKjLPqyYryyhAjq1l9OF3juEPX4BYW8soQIjFZbTvG9cjplIffUmVildL12QeUUXmedVk
+cRm93W7v7+/Fxa338EBTqY++pErFq6VrMo+oIvO86rAyxXRHh08YInyngSbnfP1eFQNGnFNGuZaZ
+CKrYmDWq9Jx5RJkJqCfb/WyUH8pMBFVszBpVes48oswE1POFltHAVQuc0g9lJoIqNmaNKj1nHlFm
+AmpEaBkF2CK3jEZ9+ERNBoiSW0YBVoguoyH3gCHTuFtmIqhiY9ao0nPmEWUmoEZEl9Hb7fb29jZY
+xWZHf6DMRFDFxqxRpefMI8pMQD1faIrpS8+cavj0gBybvn5/xo0hcJhNZfQMfUmVqQwMn2VmnPrG
+7bPojE1/NnqYvqTKVAaGzzIzTn3j9tl1xo6V0fEPkMf6yeH0JVWmMjB8lplx6hu3z7oz1t0oQMlk
+GT3mhvSYAwHu4G4UoGS4jB5wH/fzQ+hLqkxlYPgsM+PUN26fdWfs2Nfv/7Lxbxr3LV3mV5qivj6y
+mi88PWfcqDM2pYx+2FJMoxYNmJVVRgHW8ScmgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYBSpRR
+gBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYB
+SpRRgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUoUUYBSpRRgBJlFKBEGQUo
++R9x5KgK9uQWwQAAAABJRU5ErkJggg==
+"
+       id="image530"
+       x="163.35954"
+       y="303.05896" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,30.495174,71.787683)"
+       id="text748"
+       style="font-size:21.3333px;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;white-space:pre;shape-inside:url(#rect750);display:inline;fill:#000080;stroke-width:3.77953"><tspan
+         x="493.51562"
+         y="1064.0346"
+         id="tspan1703">lukenk.github.io/L</tspan></text></g></svg>
